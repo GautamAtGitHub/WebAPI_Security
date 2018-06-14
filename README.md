@@ -71,7 +71,7 @@ public IActionResult GetToken()
 {
     var claims = new[]
     {
-        new Claim(JwtRegisteredClaimNames.Sub, "jeremy@jeremylikness.com"),
+        new Claim(JwtRegisteredClaimNames.Sub, "gautamb@abc.com"),
         new Claim(JwtRegisteredClaimNames.Jti, System.Guid.NewGuid().ToString()),
     };
 
