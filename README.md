@@ -8,7 +8,7 @@
 <link>https://jwt.io/</link>
 JWT defines a safe way to share secure information between two parties.
 
-## Steps to implement JWS tocken
+## Steps to implement JWS token
 
 ### 1. Add two packages
 
